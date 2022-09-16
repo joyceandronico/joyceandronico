@@ -1,5 +1,5 @@
 <h1 align="center">Oi, 👋, Eu sou a Joyce</h1>
-<h3 align="center">Sou uma biomédica em transição de carreira. Estudo desenvolvimento web na Trybe e tenho interesse em data science</h3>
+<h3 align="center">Sou uma biomédica em transição de carreira. Estudo desenvolvimento web na Trybe e tenho interesse em back-end e dados</h3>
 
 - 🌱 Estou aprendendo atualmente **JavaScript, Nodejs, MySQL, MongoDB, Python**
 
