@@ -1,9 +1,30 @@
-<h1 align="center">Oi, 👋, Eu sou a Joyce</h1>
-<h3 align="center">Sou uma biomédica em transição de carreira. Estudo desenvolvimento web na Trybe e tenho interesse em back-end e dados</h3>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
 
-- 🌱 Estou aprendendo atualmente **JavaScript, Nodejs, MySQL, MongoDB, Redis, Python**
+<td><a href="mailto:joyceandronico@msn.com" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5513981308876" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/joyce-andronico/" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+</table>
 
-- 📫  **joyceandronico@msn.com**
+-----
+
+<div align="justify">
+Oi, 👋, sou a Joyce, tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por 15 anos com anáises clínicas em hospitais e laboratórios. Em meu último cargo eu gerenciei uma unidade de um laboratório e coordenei uma equipe. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i> e tenho interesse em back-end e dados. 
+</div>
+
+-----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
