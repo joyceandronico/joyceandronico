@@ -1,11 +1,22 @@
 <div>
+
+
+-----
+
+<div align="justify">
+Oi, 👋, sou a Joyce, tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por 15 anos com anáises clínicas em hospitais e laboratórios. Em meu último cargo eu gerenciei uma unidade de um laboratório e coordenei uma equipe. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i> e tenho interesse em back-end e dados. 
+</div>
+
+-----
+
+
 <table>
 <tr>
  <td align="center" colspan="11"></td>
-</tr> 
+</tr>
 <tr>
 
-<td><a href="mailto:joyceandronico@msn.com" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:joyceandronico@msn.com" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5513981308876" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -19,20 +30,14 @@
 
 -----
 
-<div align="justify">
-Oi, 👋, sou a Joyce, tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por 15 anos com anáises clínicas em hospitais e laboratórios. Em meu último cargo eu gerenciei uma unidade de um laboratório e coordenei uma equipe. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i> e tenho interesse em back-end e dados. 
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
 -----
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joyce-andronico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joyce-andronico" height="30" width="40" /></a>
-</p>
-
-
-<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=joyceandronico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  <img width="400px" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceandronico&layout=compact&langs_count=16&theme=tokyonight"/>
 
 
 
