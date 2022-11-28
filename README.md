@@ -1,3 +1,4 @@
+
 -----
 
 <div>
@@ -9,6 +10,12 @@
 <div>
 
 <table  align="center">
+
+<div>
+ -----
+
+<table  align="center">
+
 <tr>
  <td align="center" colspan="11"></td>
 </tr>
@@ -27,6 +34,18 @@
 
  -----
 
+
+<div align="justify">
+Oi, 👋, sou a Joyce, tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por 15 anos com anáises clínicas em hospitais e laboratórios. Em meu último cargo eu gerenciei uma unidade de um laboratório e coordenei uma equipe. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i> e tenho interesse em back-end e dados. 
+</div>
+
+-----
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+ -----
+
 <div align="justify">
 <h3 align="left">Sobre mim</h3>
 
@@ -36,6 +55,7 @@ Tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por
 -----
 
 <div>
+<<<<<<< HEAD
 <h3 align="left">Linguagens e ferramentas</h3>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -66,6 +86,8 @@ Tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por
 -----
 
 <div>
+=======
+>>>>>>> 2bf537e3947935ce9b8de74b43042d5a36968400
 <img align="right" alt="GitHub Details" width="450px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyceandronico&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyceandronico&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyceandronico&theme=github_dark"/><br>
