@@ -19,11 +19,11 @@
  <td align="center" colspan="11"></td>
 </tr>
 <tr>
-<td><a href="mailto:joyceandronico@msn.com" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/gmail.png?raw=true" width="75px" height="75px"/></a>
+<td><a href="mailto:joyceandronico@msn.com" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5513981308876" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/wpp.png?raw=true" width="75px" height="75px"/></a>
+<td><a href="https://wa.me/5513981308876" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joyce-andronico/" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/linkedin.png?raw=true" width="75px" height="75px"/></a>
+<td><a href="https://www.linkedin.com/in/joyce-andronico/" target="_blank"><img src="https://github.com/joyceandronico/joyceandronico/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -35,8 +35,9 @@
 
 <div align="justify">
 <h3 align="left">Sobre mim</h3>
+ 
+Estou em transição de carreira. Sou formada em Biomedicina e atuei por 12 anos na área da saúde. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i>.
 
-Tenho 36 anos e estou em transição de carreira. Sou biomédica e trabalhei por 15 anos com anáises clínicas em hospitais e laboratórios. Em meu último cargo eu gerenciei  algumas unidades do laboratório e coordenei equipes. Comecei a programar em 2021, quando fiquei interessada em Bioinformática. Acabei me encantando pela área de tecnologia e senti vontade de aprender uma nova profissão. Nesse momento estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i> e tenho interesse em back-end e dados.
 </div>
 
 -----
